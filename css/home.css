@@ -87,6 +87,10 @@ ul {
     }
 }
 
+.landing-page header .logo img {
+    width: 50%;
+}
+
 .landing-page header .links {
     display: flex;
     align-items: center;
@@ -116,11 +120,11 @@ ul {
     border-radius: 20px;
     padding: 10px 20px;
     color: #FFF;
-    background-color: #6c63ff;
+    background-color: #055973;
 }
 
 .landing-page header .links li:not(:last-child):hover {
-    color: #6c63ff;
+    color: #055973;
 }
 
 .landing-page .content .container {
@@ -166,7 +170,7 @@ ul {
     margin-top: 30px;
     cursor: pointer;
     color: #FFF;
-    background-color: #6c63ff;
+    background-color: #be185d;
 }
 
 .landing-page .content .image img {
