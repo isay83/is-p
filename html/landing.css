@@ -4973,11 +4973,6 @@ p {
     left: -15px;
 }
 
-.color-button .color {
-    /*    position: absolute;
-    left: 42px;
-    top: 31px;*/
-}
 
 .helper {
     position: relative;
@@ -6623,7 +6618,6 @@ p {
 #company-info .modal-perks .modal-perk-container .perk-img,
 #careers .modal-perks .modal-perk-container .perk-img {
     width: 60px;
-    user-drag: none;
     user-select: none;
     -moz-user-select: none;
     -webkit-user-drag: none;
