@@ -131,8 +131,12 @@ ul {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 140px;
+    gap: 40px;
     min-height: calc(100vh - 80px);
+}
+
+.landing-page .content .container .info {
+    width: 50%;
 }
 
 @media (max-width: 767px) {
@@ -171,6 +175,11 @@ ul {
     cursor: pointer;
     color: #FFF;
     background-color: #be185d;
+}
+
+.landing-page .content .container .image {
+    /*background-color: #005670;*/
+    width: 50%;
 }
 
 
